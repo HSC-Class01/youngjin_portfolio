@@ -1,29 +1,28 @@
-# Youngjin Kim | Personal Portfolio
+# 김영진 (Youngjin Kim)
+> 책임감과 성실함으로 꾸준히 성장하는 사람[cite: 1]
 
-김영진의 개인 포트폴리오 웹사이트입니다. 소개, 이력서, 프로젝트와 역량을 카테고리별로 정리했습니다.
+## 📌 인적사항
+- **이름**: 김영진[cite: 1]
+- **생년월일**: 2007.02.15[cite: 1]
+- **거주 지역**: 제주도[cite: 1]
+- **이메일**: yg01546@gmail.com[cite: 1]
 
-## Portfolio structure
+## 🎓 학력사항
+- **2026년 ~ 현재** | 한림성심대학교 간호학과 | 재학[cite: 1]
+- **-** | 가운고등학교 | 졸업[cite: 1]
 
-- **About** — 간단한 소개와 학력
-- **Profile** — 이력서 및 자기소개서
-- **Projects** — SK하이닉스 기업 재무분석
-- **Skills** — 책임감, 성실함, 데이터 분석 관심
-- **Contact** — 이메일
+## 📜 자격 및 교육 이수
+- **운전면허**: 1종 보통 자동[cite: 1]
+- **온라인 강좌 수료**: **Global MOOC on the Ethics of AI** (2026.11.16 수료)[cite: 2]
+  - 기관: UNESCO 인증, Coursera 제공 (UNESCO & LG AI Research 공동 개발)[cite: 2]
+  - 인증 링크: https://coursera.org/verify/IXWR8FMMJHNO[cite: 2]
 
-## Pages
+## 💼 경력사항
+- 아르바이트 및 직장 경력 없음[cite: 1]
 
-- Home: [index.html](index.html)
-- Resume & Introduction: [research-and-activities/certificate.html](research-and-activities/certificate.html)
-- SK hynix Financial Analysis: [projects/sk-hynix-financial-analysis.html](projects/sk-hynix-financial-analysis.html)
+## 💪 성격 및 장점
+- **01 책임감**: 맡은 일은 끝까지 해내려는 자세를 가지고 있습니다.[cite: 1]
+- **02 성실함**: 주어진 일에 꾸준하고 성실하게 임합니다.[cite: 1]
 
-## Publish with GitHub Pages
-
-1. Repository **Settings → Pages**로 이동합니다.
-2. **Deploy from a branch**를 선택합니다.
-3. Branch는 `main`, folder는 `/(root)`로 설정하고 Save를 누릅니다.
-4. 배포가 완료되면 `https://hsc-class01.github.io/youngjin_portfolio/`에서 확인할 수 있습니다.
-
-## Notes
-
-- HTML/CSS 기반의 반응형 정적 웹사이트입니다.
-- 프로젝트 수치와 해석은 발표 자료에 표시된 내용을 바탕으로 웹페이지에 요약했습니다. 실제 투자·공시 분석에 사용할 때는 원본 사업보고서 및 재무제표와 다시 대조해야 합니다.
+## 🙋 자기소개
+맡은 일에 책임감을 가지고 성실하게 임하는 김영진입니다.[cite: 1] 새로운 환경에서도 꾸준히 배우고 노력하며, 주어진 목표를 달성하기 위해 최선을 다하겠습니다.[cite: 1]
